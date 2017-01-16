@@ -1,8 +1,8 @@
 /****************************************************************
 Demo.ino
 LED Array 8x7 Charlieplex
-Modifited by David Schwartzberg (@DSchwartzberg) for @Hak4Kidz badge
-Shawn Hymel @ SparkFun Electronics
+Modified by David Schwartzberg (@DSchwartzberg) for @Hak4Kidz badge
+Original by Shawn Hymel @ SparkFun Electronics
 January 14, 2017
 https://github.com/sparkfun/LED_Array_8x7_Charlieplex
 
