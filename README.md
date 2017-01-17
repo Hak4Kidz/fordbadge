@@ -7,7 +7,7 @@ To extend the capabilities and program the Arduino Mini Pro 3.3V, follow these i
 * [Using the Arduino Pro Mini 328 - 3.3V/8MHz](https://learn.sparkfun.com/tutorials/using-the-arduino-pro-mini-33v)
   * Data sheet for [Pro Mini 8MHz 3.3V](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/ProMini8MHzv1.pdf)
 * SparkFun [FTDI Basic Breakout 3.3V](https://www.sparkfun.com/products/9873)
-  * FTDI Drivers [How to Install FTDI Drivers](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers)
+  * FTDI (Future Technology Devices International Ltd) Drivers [How to Install FTDI Drivers](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers)
       * [Windows](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers/windows---in-depth)
       * [Linux](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers/linux)
       * [Mac](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers/mac)
