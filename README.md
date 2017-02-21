@@ -34,3 +34,5 @@ Quick badge BOM:
  11. Laminated badge w/ lanyard
 
 Visual instructions to assemble the badge are available in this repository [wiki](https://github.com/Hak4Kidz/fordbadge/wiki) 
+
+A fun time lapse video of the badge being assembled is available at the [Hak4Kidz YouTube channel](https://youtu.be/sd8CTmgWPBQ).
