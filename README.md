@@ -2,7 +2,7 @@
 
 This badge was created quickly for the Hak4Kidz private event at the Henry Ford in Derborn, MI February 25, 2017.
 
-To extend the capabilities and program the Arduino Mini Pro 3.3V, follow these instructions:
+To extend the capabilities and program the Arduino Pro Mini 3.3V, follow these instructions:
 
 * [Using the Arduino Pro Mini 328 - 3.3V/8MHz](https://learn.sparkfun.com/tutorials/using-the-arduino-pro-mini-33v)
   * Data sheet for [Pro Mini 8MHz 3.3V](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/ProMini8MHzv1.pdf)
